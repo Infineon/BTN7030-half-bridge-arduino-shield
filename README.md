@@ -1,6 +1,3 @@
-BTN7030-Arduino-Shield
-
-NovalithICTM Lite Arduino Shield BTN7030-1EPA
 
 BTN7030-1EPA – Arduino Shield (Smart integrated half-bridge)
 
